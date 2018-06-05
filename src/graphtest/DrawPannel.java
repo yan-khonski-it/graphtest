@@ -18,7 +18,6 @@ class DrawPannel extends JPanel {
         super();
     }
 
-
     @Override
     public void paintComponent(Graphics g) {
         super.paintComponent(g);

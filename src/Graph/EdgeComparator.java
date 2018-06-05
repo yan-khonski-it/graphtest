@@ -1,24 +1,22 @@
 package Graph;
 
 import Graph.Graph.Edge;
+
 import java.util.Comparator;
 
 /**
  * Compare 2 edges.
+ *
  * @author Yan Khonskiy.
  */
 public class EdgeComparator implements Comparator {
-
-
 
     private int min(int a, int b) {
         if (a < b)
             return a;
         else
             return b;
-
     }
-
 
     private int max(int a, int b) {
         if (a > b)
@@ -26,7 +24,6 @@ public class EdgeComparator implements Comparator {
         else
             return b;
     }
-
 
     @Override
     public int compare(Object t, Object t1) {

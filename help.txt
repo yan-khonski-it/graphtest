@@ -1,6 +1,6 @@
 ﻿		User's manual.
 
-technical support:        yankhonskiy@yandex.ru\n
+technical support:        yankhonskiy@yandex.ru
 
 
 The program allows you to test a graph. You can download a graph only from txt or graph files.
