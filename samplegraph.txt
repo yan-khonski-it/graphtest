@@ -1,0 +1,16 @@
+Sample graph in a "txt"  file  
+
+Graph                  //The word must be before graph.
+3                            //Quantity of vertices.
+{0, 1, 2}                //Node 1. Indices of connected vertices and weight of the edge.
+{1, 2, 3}
+{2, 0, 1}
+***                          //The end of the graph must be.
+
+
+Graph
+3
+{0, 1, 2}
+{1, 2, 3}
+{2, 0, 5}
+***
